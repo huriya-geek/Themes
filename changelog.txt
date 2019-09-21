@@ -1,0 +1,32 @@
+Version 1.0
+
+i) Initial Version Release
+
+Version 1.1
+
+i) Color options
+ii) Shortcodes
+iii) Woocommerce Update
+iv) RTL
+
+Version 1.2
+
+i) Added Read More Link Option wherever
+not present.
+ii) Added left side image option in customizer 
+of Welcome Section
+iii) Added Customizer option for subtitle of 
+Our Facilities Section.
+iv) Added hyperlink in email of topbar
+v) Added Link option in customizer for Register and Login 
+buttons in topbar
+
+Version 1.3
+
+i) Added Section Re-ordering
+ii) Added Selective Refresh
+iii) Added Separator
+iv) Updated Woocommerce
+v) Updated Bootstrap
+vi) Updated Fontawesome
+vii) Updated Owl Carousel
