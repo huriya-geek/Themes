@@ -46,6 +46,7 @@ $exercise_loop="false";
             <p class="record_details"><?php echo esc_html(get_theme_mod('advance_fitness_gym_pro_exercise_sec_details'.$i)); ?></p>
           <?php }?>
         </div>
+        
       <?php } ?>
 	  </div>	
     </div>
